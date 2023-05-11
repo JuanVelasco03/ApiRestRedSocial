@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "643477918964308b1c308cb0"
+  },
+  "name": "Juan Pablo",
+  "surname": "Velasco Yara",
+  "nick": "juanblo ",
+  "email": "juanblo@outlook.com",
+  "password": "$2b$10$icR/SK.j.mW1gfjvo0mYWeanThdHpMsF/eSMrmjJcCODbCdjOfbkC",
+  "role": "role_user",
+  "image": "avatar-1681399461478-rick-and-morty-minimalista_3840x2160_xtrafondos.com.jpg",
+  "createAt": {
+    "$date": "2023-04-10T20:54:41.139Z"
+  },
+  "__v": 0,
+  "bio": "Hola, soy Desarollador full-stack "
+},{
+  "_id": {
+    "$oid": "643577e64426c25af1123baa"
+  },
+  "name": "Laura",
+  "surname": "Velasco Yara",
+  "nick": "lara12",
+  "email": "lara@outlook.com",
+  "password": "$2b$10$JS3ihKzO2TqmnoRc4dwQeuJ9POmj3.QPn218CY4FPqf3ziJs43Yk.",
+  "role": "role_user",
+  "image": "avatar-1681401745130-astronauta-en-campo-de-girasoles_5120x2880_xtrafondos.com.jpg",
+  "createAt": {
+    "$date": "2023-04-11T15:08:22.080Z"
+  },
+  "__v": 0,
+  "bio": "Hola, soy una estudiante proactiva"
+},{
+  "_id": {
+    "$oid": "6436fca8b94b36174027b53f"
+  },
+  "name": "Paco ",
+  "surname": "Arrieta",
+  "nick": "pacoElcrack",
+  "email": "Paco@outlook.com",
+  "password": "$2b$10$6OLp4uygPcdHdOOs3stNC.N/H.2bBBEWeKdAHf.LVN.PsAU/cpDm6",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-04-12T18:47:04.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64371e74b94b36174027b546"
+  },
+  "name": "Arvilla ",
+  "surname": "Bauch",
+  "nick": "arvibach",
+  "email": "joel.hill@yahoo.com",
+  "password": "$2b$10$eAzGV7GEpv8GIl/v.d/2f.4PaM1CsMitgihRLgTV2jNC6g8q/CNVu",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-04-12T21:11:16.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64382b5abf73bdf069d36e2b"
+  },
+  "name": "Luis ",
+  "surname": "Arroyo",
+  "nick": "luis12",
+  "email": "qleon@hotmail.com",
+  "password": "$2b$10$GDnS2dxDKP0JYlDDN.yU1.xqXlDeskw0OCfBQGQ2aAay41wnkQU5S",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-04-13T16:18:34.482Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64382b6dbf73bdf069d36e2e"
+  },
+  "name": "Miguel ",
+  "surname": "Ángel Lozano",
+  "nick": "angel55",
+  "email": "omar.manzanares@live.com",
+  "password": "$2b$10$Q4qZu9iU0nGqaLO4TOkNxOwfmwFE/CFtD30w/uAOgkQGmiLToKB8C",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-04-13T16:18:53.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64382b80bf73bdf069d36e31"
+  },
+  "name": "Luis ",
+  "surname": "Valero",
+  "nick": "valLui3",
+  "email": "armendariz.isaac@ponce.com",
+  "password": "$2b$10$rKbUbdUguWf46z5s6Udjs.NK5xCgKtp/ktuJv/RR6uPos72aovEpe",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-04-13T16:19:12.363Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d2c54a73fff24ad364ca6"
+  },
+  "name": "juan",
+  "surname": "velasco",
+  "nick": "janzers",
+  "email": "juanyara773@gmail.com",
+  "password": "$2b$10$039yeC.vTqdkB1n4d15KMOuKEicznAU1UHbg1fXHwC.yCDcXODBM2",
+  "role": "role_user",
+  "image": "default.png",
+  "createAt": {
+    "$date": "2023-05-11T17:56:36.135Z"
+  },
+  "__v": 0
+}]
